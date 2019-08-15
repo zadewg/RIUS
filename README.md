@@ -16,3 +16,8 @@ When a message contains a valid URL, it is highlighted and marked as hyperlink. 
 WhatsApp                        |        Instagram DM    |
 :------------------------------:|:----------------------:|
 ![POCW](whatsapp.gif)           | ![POCI](instagram.gif) |
+
+
+---
+Facebook does not feel like fixing it.
+**mapez** - [telegram](https://t.me/mapezz)
