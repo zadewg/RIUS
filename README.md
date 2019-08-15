@@ -8,4 +8,4 @@
 
 When a message contains a valid URL, it is highlighted and marked as hyperlink. However, this is printed to screen before sanitizing Unicode Control Characters, which results in URI spoofing via specially crafted messages.
 
-` Affects all distributions of iOS iMessage, WhatsApp, Instagram, and Facebook Messenger as of 2019.8.15 `
+` Affects all recent distributions of iOS iMessage, WhatsApp, Instagram, and Facebook Messenger as of 2019.8.15 `
