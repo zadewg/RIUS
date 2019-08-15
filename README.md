@@ -2,7 +2,7 @@
 
 **CWE-451: User Interface (UI) Misrepresentation of Critical Information.**
 
-> *The user interface (UI) does not properly represent critical information to the user, allowing the information to be spoofed. This is often a component in online scams, phishing and disinformation propagation.*
+> *The user interface does not properly represent critical information to the user, allowing the information to be spoofed. This is often a component in online scams, phishing and disinformation propagation.*
 
  &nbsp;
 
