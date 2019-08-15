@@ -1,4 +1,4 @@
-# RIUS - RTLO Injection URI Spoofing
+# RIUS - RTLO Injection URI Spoofing (0-day)
 
 **CWE-451: User Interface (UI) Misrepresentation of Critical Information.**
 
