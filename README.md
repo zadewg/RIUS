@@ -13,6 +13,6 @@ When a message contains a valid URL, it is highlighted and marked as hyperlink. 
 
 ---
 
-WhatsApp iOS                    |        Instagram DM    |
+WhatsApp                        |        Instagram DM    |
 :------------------------------:|:----------------------:|
 ![POCW](whatsapp.gif)           | ![POCI](instagram.gif) |
