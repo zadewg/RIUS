@@ -19,5 +19,4 @@ WhatsApp                        |        Instagram DM    |
 
 
 ---
-Facebook does not feel like fixing it.
 **mapez** - [telegram](https://t.me/mapezz)
