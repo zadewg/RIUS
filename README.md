@@ -1,4 +1,4 @@
-# RIUS - RTLO Injection URI Spoofing 
+# RIUS - RTLO Injection URI Spoofing  CVE-2020-20093; 20094; 20095; 20096
 
 **CWE-451: User Interface (UI) Misrepresentation of Critical Information.**
 
